@@ -1,0 +1,19 @@
+CREATE TABLE IF NOT EXISTS vendedores(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nome TEXT NOT NULL,
+    cpf TEXT NOT NULL UNIQUE,
+    dt_nascimento DATETIME NOT NULL,
+    email TEXT NOT NULL UNIQUE,
+    estado TEXT NOT NULL
+);
+
+
+CREATE TABLE IF NOT EXISTS vendas(
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	dt_venda DATETIME NOT NULL,
+	nome_vendedor TEXT NOT NULL,
+	valor_venda REAL NOT NULL,
+	tipo_cliente TEXT NOT NULL,
+	canal_venda TEXT NOT NULL,
+	custo_venda REAL NOT NULL
+)

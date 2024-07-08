@@ -1,0 +1,14 @@
+id,nome,cpf,dt_nascimento,email,estado
+1,João Silva,501.934.270-01,1992-12-01,joaosilva@gmail.com,Rio Grande do Sul
+2,Maria Oliveira,762.152.390-54,1999-09-01,mariaoliveira@gmail.com,Santa Catarina
+3,Pedro Souza,393.458.550-76,1990-01-23,pedrosouza@gmail.com,Goias
+4,Ana Costa,862.788.950-30,1987-01-24,anacosta@gmail.com,Rio Grande do Sul
+5,Carlos Santos,692.680.770-19,2002-01-25,carlossantos@gmail.com,Espirito Santo
+6,Daniella Fernandes,519.985.990-00,2001-01-26,daniellafernandes@gmail.com,Paraná
+7,Eduardo Pereira,067.272.430-85,2002-01-27,eduardopereira@gmail.com,Santa Catarina
+8,Fernanda Rodrigues,191.373.960-05,1998-01-28,fernandarodrigues@gmail.com,Amapá
+9,Gabriel Silva,080.245.140-36,1990-01-29,gabrielsilva@gmail.com,Minas Gerais
+10,Gabriela Oliveira,739.089.030-41,1983-01-30,gabrielaoliveira@gmail.com,São Paulo
+11,Henrique Santos,682.053.330-68,2001-01-31,henriquesantos@gmail.com,Rio de Janeiro
+12,Isabella Fernandes,270.499.750-01,1989-02-01,isabellafernandes@gmail.com,Rio Grande do Sul
+13,João Souza,738.219.460-40,1990-02-02,joaosouza@gmail.com,Sergipe

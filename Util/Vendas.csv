@@ -1,0 +1,35 @@
+id,dt_venda,nome_vendedor,valor_venda,tipo_cliente,canal_venda,custo_venda
+1,2023-11-01,João Silva,1000,Novo,Loja física,100
+2,2023-11-02,Maria Oliveira,500,Fidelizado,Online,50
+3,2023-11-03,Pedro Souza,2000,Novo,Telefone,200
+4,2023-11-04,Ana Costa,1500,Fidelizado,Loja física,150
+5,2023-11-05,Carlos Santos,800,Novo,Online,80
+6,2023-11-06,Daniella Fernandes,1200,Fidelizado,Telefone,120
+7,2023-11-07,Eduardo Pereira,1800,Novo,Loja física,180
+8,2023-11-08,Fernanda Rodrigues,1100,Fidelizado,Online,110
+9,2023-11-09,Gabriel Silva,900,Novo,Telefone,90
+10,2023-11-10,Gabriela Oliveira,1300,Fidelizado,Loja física,130
+11,2023-11-11,Henrique Santos,1700,Novo,Online,170
+12,2023-11-12,Isabella Fernandes,1600,Fidelizado,Telefone,160
+13,2023-11-13,João Souza,1000,Novo,Loja física,100
+14,2023-11-14,Maria Oliveira,500,Fidelizado,Online,50
+15,2023-11-15,Pedro Souza,2000,Novo,Telefone,200
+16,2023-12-01,Henrique Santos,1700,Novo,Online,170
+18,2023-12-02,Isabella Fernandes,1600,Fidelizado,Telefone,160
+19,2023-11-16,Ana Costa,1500,Fidelizado,Loja física,150
+20,2023-11-17,Carlos Santos,800,Novo,Online,80
+21,2023-11-18,Daniella Fernandes,1200,Fidelizado,Telefone,120
+22,2023-11-19,Eduardo Pereira,1800,Novo,Loja física,180
+23,2023-11-20,Fernanda Rodrigues,1100,Fidelizado,Online,110
+24,2023-11-21,Gabriel Silva,900,Novo,Telefone,90
+25,2023-11-22,Gabriela Oliveira,1300,Fidelizado,Loja física,130
+26,2023-11-23,Eduardo Pereira,1500,Novo,Loja física,150
+27,2023-11-24,Fernanda Rodrigues,1000,Fidelizado,Online,100
+28,2023-11-25,Gabriel Silva,1200,Novo,Telefone,120
+29,2023-11-26,Gabriela Oliveira,1400,Fidelizado,Loja física,140
+30,2023-11-27,Henrique Santos,1600,Novo,Online,160
+31,2023-11-28,Isabella Fernandes,1800,Fidelizado,Telefone,180
+32,2023-11-29,João Silva,1100,Novo,Loja física,110
+33,2023-11-30,Maria Oliveira,500,Fidelizado,Online,50
+34,2023-12-01,Pedro Souza,2000,Novo,Telefone,200
+35,2023-12-02,Ana Costa,1500,Fidelizado,Loja física,150
